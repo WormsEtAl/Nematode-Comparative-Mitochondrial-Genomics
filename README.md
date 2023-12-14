@@ -1,5 +1,5 @@
 # Nematode-Comparative-Mitochondrial-Genomics
-Pipeline for extraction, evaluation, and visualization of nematode mitochondrial genomes.
+Pipeline for the extraction, evaluation, and visualization of nematode mitochondrial genomes.
 
 ## REQUIRED SOFTWARE
 * BASH compatable operating system or emulator
